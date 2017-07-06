@@ -1,0 +1,10 @@
+body {
+  background-size: cover;
+  background: url('images/MW_logo_symbol_blue.png') no-repeat center center fixed;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  transition: color 1s ease-in-out;
+}
